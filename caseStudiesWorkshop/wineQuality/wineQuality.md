@@ -1,10 +1,12 @@
 # Wine Quality Data Set 
 ## Case Study for Python Workshop
 
-**Problem**: 
+**Problem**:
+
 A Portuguese Winery is concerned with wine selections based on rating of red wine (*Vinho Verde* wine to be precise), so you are given the task of predicting the best wine quality given 11 physicochemical characteristics. 
 
 **Process**: 
+
 For this group you will have to connect to an *in-memory* database using the set of instructions I have provided. There will be more leniency for this group with respect to what analysis will be done, so you have to propose the problem you are trying to address as opposed to me giving you a pre-made problem. (although I do know of a process that can lead to 99% accuracy, but I will let you find that on your own)
 
 There is inclusion of missing data, you will have to identify the amount, and convert to `np.nan` then remove these values before starting your data analysis. (**Hint**: Missing values are positive numbers)
