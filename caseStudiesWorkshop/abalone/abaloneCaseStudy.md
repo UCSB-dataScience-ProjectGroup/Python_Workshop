@@ -2,9 +2,11 @@
 ## Case Study for Python Workshop
 
 **Problem**: 
+
 A marine biologist from **Marine Research Laboratories** decided to reach out to your team because they need helping making sense of the data they collected. The underlying issue is that they are trying to predict the age of the **abalone** based on the physical attributes they collected during their study. 
 
 **Process**:
+
 Some preliminary requirements that they asked from your team is to show them exploratory analysis with respect to the sex of the **abalone**, a nominal value of {**M**: Male, **F**: Female, and **I**: Infant}. They were curious as to which physical attributes (i.e. dependent variables) showed the most distinction between the sexes. They asked that you do at least two visuals that will help them digest some of the information that your team found during your analysis.     
 
 Your team quickly realized that the process best suited for this dataset is **linear regression** since the independent variable is *continous* ('rings'), but after some persuasion your team convinced the marine biologist that a more efficient process would be to do classification. So your team decided to create 3 appropriate bins for the 'rings': (Inspired by: citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.2321&rep=rep1&type=pdf)
@@ -18,6 +20,7 @@ Your team quickly realized that the process best suited for this dataset is **li
 After doing so, your team decided that **Kth Nearest Neighbor** would be the best approach for this analysis. Your team also decided that instead of doing the traditional *training* and *test* split you feel as though *cross validation* would be a more appropriate method. As well as showcasing the results of **3 different k values** for your algorithm.  
 
 **IMPORTANT TO NOTE**: 
+
 For this data set, the use of the **original** data set is encouraged for the **exploratory analysis**, since when going about **exploratory analysis** we are usually concerned with the original forms of measurement, whereas the *data analysis* part we are concerned with the *normalized* data set (since this helps with accuracy when applying our **machine learning algorithms**). Also after concluded your results 
 
 **Requirements:**
