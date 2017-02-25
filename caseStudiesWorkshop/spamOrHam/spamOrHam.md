@@ -2,6 +2,7 @@
 ## Case Study for Python Workshop
 
 **Problem**:
+
 To put it bluntly getting spam in your email is crappy. Fortunately many email providers have been able to classify spam (or ham) appropriately, but some of you witnessed when my email regarding the **Python** workshop was marked as spam, its not perfect.
 
 This is a good segue to this case study, your team is given the task of classifying email, but the company that has given you this task stresses the importance of having minimal *false positives* as possible (good mail marked as spam). So your group decides to use *decision trees*. And to drive home the significance of *false positives* within your model. The company wants your team to provide an *ROC Curve* and *AUC* value in your analysis. 
@@ -9,6 +10,7 @@ This is a good segue to this case study, your team is given the task of classify
 As well as stating the amount of *false positives* for both your *training* and *test set*. To help the people you are working for understand how we go about interpretting and receiving these numbers in our analysis.
 
 **Process**: 
+
 Pretty straight forward, the only requirement for this data set was that the client wanted a 75-25 split with respect to the *training* and *test set*. Again provide the following pieces of information in your analysis:
 + Visual Representation of the decision tree created
 + Training and test sets' *false positive* totals
