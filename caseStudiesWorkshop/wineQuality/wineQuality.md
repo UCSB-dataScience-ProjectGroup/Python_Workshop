@@ -9,7 +9,7 @@ A Portuguese Winery is concerned with wine selections based on rating of red win
 
 For this group you will have to connect to an *in-memory* database using the set of instructions I have provided. There will be more leniency for this group with respect to what analysis will be done, so you have to propose the problem you are trying to address as opposed to me giving you a pre-made problem. (although I do know of a process that can lead to 99% accuracy, but I will let you find that on your own)
 
-There is inclusion of missing data, you will have to identify the amount, and convert to `np.nan` then remove these values before starting your data analysis. (**Hint**: Missing values are positive numbers)
+There is inclusion of missing data, you will have to identify the amount, and convert to `np.nan` then remove these values before starting your data analysis. (**Hint**: Missing values are **not** positive numbers)
 
 **Preliminary**:
 For this case study your group must connect to a *in-memory database*, and use that connection to retrieve your data set, if there are more than one group who feel as though they are within this level of analysis then each team will be assigned a certain type of wine. 
