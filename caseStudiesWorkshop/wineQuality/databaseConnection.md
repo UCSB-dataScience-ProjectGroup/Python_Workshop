@@ -204,3 +204,7 @@ Output:
 This also works with **Jupyter Notebooks** as long as you make sure you run the data extraction script within the same session that you run your analysis script and have all files in the same directory!
 
 The rest is up to your team to do the fun data analysis stuff!
+
+**Sources Cited**
++ [SQL Syntax](https://www.w3schools.com/sql/)
++ [Python for Data Analysis](http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf) (**Note**: page 190 contaings example inspiring this exercise)
