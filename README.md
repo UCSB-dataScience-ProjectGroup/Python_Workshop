@@ -37,7 +37,7 @@ Here are some important packages that we feel like be necessary in your analysis
 	seaborn 
 	urlopen
 
-+ **Step 0: Research**
+## **Step 0: Research**
 
 With the start of the projects your team will need to brainstorm (by employing a **Stand up**) about the processes including the code and the team work necessary. 
 
@@ -46,7 +46,7 @@ Many of you are still getting adjusted to learning **Python** so you will have t
 My advice is have your team work off of one person's computer to write the code. While other teammates can use theirs to research **Python** packages, algorithms, or work on the **README** files. Every teammate should always be working on something at all times. We came here to learn so any idleness is a waste of your and my time (Obviously teams should take breaks when appropriate).
 
 
-+ **Step 1: Repository**
+## **Step 1: Repository**
 
 For this step you will create a **GitHub** repository with the following requirements:
 + README detailing
@@ -58,7 +58,7 @@ For this step you will create a **GitHub** repository with the following require
 	+ Programming language along with relevant modules
 		+ Setting up *Virtual Environment* as well as having a *requirements.txt* file
 	+ An images folder to provide any important Exploratory analysis images from your analysis 
-+ **Step 2: Data Wrangling**
+## **Step 2: Data Wrangling**
 
 For this step you will work as a team to address the issue that was presented to your team. For this section, teamwork is important. We want you to be working together addressing how to go about the *data wrangling* process in order for you to start the *data analysis*. For this process we need the following requirements:
 + A script documenting the process of *data wrangling* (this file will be seperate from your *data analysis* file)
@@ -68,11 +68,12 @@ For this step you will work as a team to address the issue that was presented to
 	+ Include a summary at the end detailing some issues addressed (Remember always include resources used, sometimes it helps to include the resource in the actual script)
 + Uploaded raw file (in **csv**, **txt** or **data** file) on the **GitHub** repository, as well as a description in the **README** file explaining the process taken when doing your *data wrangling*. 
 
-+ **Step 3: Data Analysis** 
+## **Step 3: Data Analysis** 
 
 For this step, once you are done with the *data wrangling* aspect we want you to output the cleaned up file(s) and begin a seperate script detailing the *data analysis* component of your project. 
 + We would like an explanation of the process taken so some research is necessary on your part with respect to knowing how to explain the method/algorithm your team will be using.  
-+ **Step 4: Reporting**
+
+## **Step 4: Reporting**
 
 For the final step everything should be presentable (i.e. code is cleaned up, **README** file is lit af, images are in the right directory, files are named to give people context). You should have a **GitHub** repo that looks similar to those on the inertia7 **GitHub** account.
 
