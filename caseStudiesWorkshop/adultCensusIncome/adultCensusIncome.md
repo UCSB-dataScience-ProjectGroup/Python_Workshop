@@ -2,9 +2,11 @@
 ## Case Study for Python Workshop
 
 **Problem**: 
+
 Your team has been hired by a local hiring agency to make sense of a recent census (admittedly 1994 isn't recent, but just play along). They're trying to find the relationship between race and income within the United States, among other indicators taken during the census. They would like digestible visuals to include on their website relating to race, more specifically the difference between **Caucasian** and **African American** populations in the United States relating to the different indicators. 
 
 **Process**: 
+
 The hiring agency is only concerned with these variables:
 
 + age
@@ -29,6 +31,7 @@ Your team agrees and will go about this process converting the 'income' variable
 Recall before you start your analysis, you want create visuals with respect to two subsections of your data set so it would be helpful to create two additional data frames: One relating to the *Caucasian* population in the *United States* and the other relating to the *African American* population in the *United States*. After doing so, create a *logistic regression* model relating to the newly converted data frame. 
 
 **Important to Note**:
+
 Just because I know its shitty to hard code conversions I've provided some of the longer variable conversions in `dict` format:
 
 	{' Private':0, ' State-gov':1, ' Federal-gov':2, ' Self-emp-not-inc':3, ' Self-emp-inc':4, ' Local-gov':5, ' Without-pay':6}
