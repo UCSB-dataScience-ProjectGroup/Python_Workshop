@@ -1,6 +1,10 @@
 # Connecting to an In-Memory Database
 ## Documentation relating to connecting to an *In-Memory Database*. 
 
+**Contributors**:
++ Raul Eulogio
++ Jun Seo Park
+
 For this exercise we will be recreating a process known as *Open Database Connection* or *ODBC* for short. As you progress on your quest to becoming a data savvy nerd, an important concept and process is *ODBC*; although much of the data abundantly available is becoming less and less **SQL** based, knowing this process is still a useful tool and skill to possess. 
 
 *What is SQL?*
