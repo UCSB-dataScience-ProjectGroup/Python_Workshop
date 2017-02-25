@@ -36,7 +36,7 @@ More advanced group will be assigned the white wine subcategory. The other group
 	+ Inclusion of pre-processed data file 
 	+ Inclusion of new file with appropriate conversions
 + Data Analysis
-	+ 
+	+ Brief justification for your process 
 	+ Quick summary of **Random Forest**
 	 	+ Create appropriate **training** and **test** set, for this example use 80-20 split
 		+ Give an overview of the method. Can include:
