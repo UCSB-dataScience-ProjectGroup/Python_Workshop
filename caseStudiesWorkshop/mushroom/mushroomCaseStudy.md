@@ -2,9 +2,11 @@
 ## Case Study for Python Workshop
 
 **Problem**: 
+
 A scientific researcher spent quite a bit of time collecting data for mushrooms. They were concerned about the accuracy of predictions based on *Naive Bayes* classification to see whether or not a mushroom was edible based on different physical characteristics. So your team was called to do a analysis on this data set provided by the researcher. The scientific researcher wants your team to include the *ROC Curve* and the *AUC* value within your *analysis* since this will be useful for their understanding. 
 
 **Process**: 
+
 Your team quickly realized that this data set is all *discrete variables*, so conversion to what are called *dummy variables* are necessary. Utilizing the `get_dummies()` function (More on this later) in pandas will be useful in your analysis. 
 
 After doing so, your team decided since there was a conversion of variables types, you would use *Naive Bayes* to try to see which variables showed the most significance in the model created.
@@ -16,6 +18,7 @@ The prediction aspect is as follows: a requirement for this data set was that th
 + Any prediction measurements that would be helpful in understanding model predictions and outcomes
 
 **IMPORTANT TO NOTE**: 
+
 For this data set since all dependent variables are *discrete* you will need to employ the `pandas.get_dummies()` function. Fair warning this will produce a fairly large dataframe. An important feature in the `pd.get_dummies()` is the use of `prefix = []`, which will be helpful in distinguishing columns when the conversion is made.  
 
 As well as choosing the appropriate *Naive Bayes* method from the `sklearn` module. 
