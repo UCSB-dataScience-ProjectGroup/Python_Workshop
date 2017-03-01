@@ -4,6 +4,14 @@
 **Contributors**
 + Raul Eulogio
 
+**UPDATE** (3/1/2017):
+Here are the accompanying repos for the workshop!
+
++ [adultConsusIncome Repo](https://github.com/junseo-park/adultCensusIncome)
++ [mushroom](https://github.com/limzy-alex/pythonWorkshop)
++ [emailClassification](https://github.com/Inouyesan/EmailClassification_Python)
++ [wineQuality](https://github.com/Njfritter/pythonHackathonAdvanced)
+
 **Goal**: 
 
 As we continue our journey through the world of *data analysis* and *data science*, we have addressed the issue of learning **Python** for *data analysis*. This component of data analysis is important for our futures, but unfortunately has been non-existent in our curriculum, so we are deciding to change that. 
