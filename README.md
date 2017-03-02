@@ -30,6 +30,7 @@ Here are the accompanying repos for the workshop!
 + [wineQuality](https://github.com/Njfritter/pythonHackathonAdvanced)
 	+ Contributors:
 		+ [Amil Khan](https://github.com/amilworks)
+		+ [Calvin Wang](https://github.com/calvin-is-seksy)
 		+ [Nathan Fritter](https://github.com/Njfritter)
 		+ [Tate Allen](https://github.com/tallen11)
 
