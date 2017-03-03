@@ -7,28 +7,28 @@
 **UPDATE** (3/1/2017):
 Here are the accompanying repos for the workshop!
 
-+ [adultConsusIncome Repo](https://github.com/junseo-park/adultCensusIncome)
-	+ Contributors:
++ [adultConsusIncome](https://github.com/junseo-park/adultCensusIncome)
+	+ **Contributors**:
 		+ [Brian Luu](https://github.com/brianluu17)
 		+ [Emma Duncan](https://github.com/emmanduncan)
 		+ [Jun Seo Park](https://github.com/junseo-park)
 		+ [Samantha Lee](https://github.com/samanthaklee)
 + [mushroom](https://github.com/limzy-alex/pythonWorkshop)
-	+ Contributors:
+	+ **Contributors**:
 		+ [Alexander Limm](https://github.com/limzy-alex)
 		+ [Celine Mol](https://github.com/celinemol)
 		+ [Jesslyn Widjaja](https://github.com/jesswidjaja)
 		+ [Johnny Trinh](https://github.com/iggytrinh)
 		+ [Megan Nguyen](https://github.com/nguyenmmegan)
 + [emailClassification](https://github.com/Inouyesan/EmailClassification_Python)	
-	+ Contributors:
+	+ **Contributors**:
 		+ [Ashriful Dulla](https://github.com/ashriful)
 		+ [Bryan Daetz](https://github.com/bryandaetz)
 		+ [Jun Ki Kwon (Peter)](https://github.com/)
 		+ [Kevin Wang](https://github.com/kwang1092)
 		+ [Shon Inouye](https://github.com/Inouyesan)
 + [wineQuality](https://github.com/Njfritter/pythonHackathonAdvanced)
-	+ Contributors:
+	+ **Contributors**:
 		+ [Amil Khan](https://github.com/amilworks)
 		+ [Calvin Wang](https://github.com/calvin-is-seksy)
 		+ [Nathan Fritter](https://github.com/Njfritter)
